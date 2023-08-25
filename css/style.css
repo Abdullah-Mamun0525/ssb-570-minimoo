@@ -1,0 +1,352 @@
+{
+    margin: 0;
+    padding: 0;
+
+}
+h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 90%;
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.logo{
+    width: 20%;
+
+}
+.logo img{
+
+}
+nav{
+    width: 50%;
+
+}
+nav ul{
+    
+list-style: none;
+    
+display: flex;
+    
+justify-content: space-between;
+    
+font-size: 18px;
+    
+/* text-decoration: none; */
+}
+nav ul li{
+    
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+/* list-style: none; */
+    
+text-transform: uppercase;
+}
+
+h2{
+
+margin-left: 225px;
+
+font-size: 50px;
+
+color: beige;
+
+padding-bottom: 50px;
+}
+p{
+    
+margin-left: 225px;
+    
+color: darkslategray;
+}{
+    margin: 0;
+    padding: 0;
+
+}
+h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 90%;
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.logo{
+    width: 20%;
+
+}
+.logo img{
+
+}
+nav{
+    width: 50%;
+
+}
+nav ul{
+    
+list-style: none;
+    
+display: flex;
+    
+justify-content: space-between;
+    
+font-size: 18px;
+    
+/* text-decoration: none; */
+}
+nav ul li{
+    
+/* color: white; */
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+/* list-style: none; */
+    
+text-transform: uppercase;
+    
+color: #626262;
+font-family: 'Playfair Display', serif;
+}
+.banner{
+
+margin-left: 5%;
+
+width: 90%;
+
+
+}
+.banner img{
+    
+width: 100%;
+}
+.photodiary{
+
+width: 80%;
+
+margin: auto;
+
+padding: 60px 0px;
+}
+.photodiary h5{
+    
+color: #b4ad9e;
+    
+text-transform: uppercase;
+    
+font-size: 14px;
+    
+margin-bottom: 20px;
+    
+font-family: 'Ubuntu', sans-serif;
+    
+font-weight: 300;
+}
+.photodiary h1{
+    
+color: #626262;
+    
+font-size: 30px;
+    
+margin-bottom: 20px;
+font-family: 'Playfair Display', serif;
+}
+.photodiary p{
+    
+color: #626262;
+    
+font-size: 14px;
+    
+margin-bottom: 20px;
+    
+font-family: 'Playfair Display', serif;
+    
+line-height: 24px;
+}
+.photodiary h6{
+    
+color: #b4ad9e;
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+font-family: 'Ubuntu', sans-serif;
+    
+font-weight: 300;
+}
+.feature_section{
+
+width: 80%;
+
+display: flex;
+
+margin: auto;
+
+justify-content: space-between;
+
+padding: 60px 0px;
+
+flex-wrap: wrap;
+}
+.items{
+
+width: 48%;
+
+margin-bottom: 100px;
+}
+.items h5{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+
+font-size: 14px;
+
+margin-bottom: 20px;
+
+font-family: 'Ubuntu', sans-serif;
+
+font-weight: 300;
+}
+.items h1{
+
+color: #626262;
+
+font-size: 30px;
+
+margin-bottom: 20px;
+
+font-family: 'Playfair Display', serif;
+}
+.items p{
+
+color: #626262;
+
+font-size: 14px;
+
+margin-bottom: 20px;
+
+font-family: 'Playfair Display', serif;
+
+line-height: 24px;
+}
+.items img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+.signup_section{background: #f0f0f0;padding: 100px 0px;margin-bottom: 50px;}
+.form{
+
+width: 15%;
+
+margin: auto;
+}
+.form h1{
+
+color: #626262;
+
+font-size: 23px;
+
+margin-bottom: 50px;
+
+font-family: 'Playfair Display', serif;
+
+font-weight: 500;
+}
+.form input{
+
+background: transparent;
+
+border: none;
+
+border-bottom: 1px solid;
+
+width: 100%;
+}
+
+.loadmore{
+    padding-bottom: 100px ;
+    text-align: center;
+}
+.loadmore button{
+    /* text-align: center; */
+    padding: 15px 25px;
+    font-family: 'Playfair Display', serif;
+    font-size: 23px;
+    color: #626262;
+    background: transparent;
+    cursor: pointer;
+
+}
+footer{
+
+background: #fofofo;
+
+background: #f0f0f0;
+
+padding: 50px 0px;
+}
+.footer_content{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+}
+.terms{
+
+}
+.terms ul{
+    
+list-style: none;
+    
+display: flex;
+}
+.terms ul li{
+    margin-right: 17px;
+}
+.terms ul li a{
+    
+color: #626262;
+    
+text-transform: capitalize;
+    
+text-decoration: none;
+}
+.social_icon{
+}
+.social_icon ul{
+    
+display: flex;
+    
+list-style: none;
+}
+.social_icon ul li{
+    
+}
+.social_icon ul li a{
+    
+text-decoration: none;
+    
+margin-left: 15px;
+    
+color: #626262;
+}
